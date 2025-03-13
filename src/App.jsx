@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css'
 
 import Result from './pages/Result'
 import BuyCredit from './pages/BuyCredit'
-import Home from './pages/home'
+import Home from './pages/Home'
 import Navbar from './components/navbar'
 import Footer from './components/Footer'
 import Login from './components/Login'
